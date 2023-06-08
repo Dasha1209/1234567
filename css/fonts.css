@@ -1,0 +1,17 @@
+@font-face{
+   font-family: "Dancing Script";
+   src: url(../fonts/DancingScript-Bold.woff2);
+   src: url(../fonts/DancingScript-Bold.woff);
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face{
+   font-family: "Dancing Script";
+   src: url(../fonts/DancingScript-Medium.woff2);
+   src: url(../fonts/DancingScript-Medium.woff);
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}

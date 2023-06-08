@@ -1,0 +1,49 @@
+body{
+   background-color: bisque;
+}
+
+.title{
+   font-family: "Dancing Script";
+   font-weight: 700;
+   font-size: 30px;
+   text-align: center;
+   text-decoration: underline;
+   border: 5px solid red;
+   margin: 22px;
+   padding: 10px;
+
+}
+
+.pic{
+   display: block;
+  max-width: 400px;
+  padding: 30px;
+  margin: 0 auto;
+  
+  }
+  .img{
+        width: 100%;
+     
+  }
+
+  .text{
+   font-family: "Dancing Script";
+   font-weight: 700;
+   font-size: 22px;
+   margin: 15px;
+   line-height: 1.5;
+   background-color: antiquewhite;
+   border: 8px dotted 	#20B2AA;
+  }
+
+  .text_subtitle{
+   font-family: "Dancing Script";
+   font-weight: 500;
+   font-size: 22px;
+   margin: 1.5;
+   margin: 15px;
+   border: 7px dotted 	#00FA9A;
+   padding: 10px;
+  }
+  
+ 
